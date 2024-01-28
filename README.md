@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alice</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
-- 🌱 I’m currently learning **Fullstack, mobile development, DevOps**
+- I’m currently learning **Fullstack, mobile development, DevOps**
 
 
 
